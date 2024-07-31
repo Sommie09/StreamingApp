@@ -1,4 +1,4 @@
-<img width="990" alt="Screenshot 2024-07-31 at 12 14 19" src="https://github.com/user-attachments/assets/2887e69b-d951-43c2-9f85-0b7bffae8cc4"># Streaming App with Amazon Kinesis Data Analytics
+# Streaming App with Amazon Kinesis Data Analytics
 This repository contains a real-time pipeline to ingest/receive data from a real-time stream of events and deploys a streaming application to aggregate some events in real time.
 
 ## Workflow 
